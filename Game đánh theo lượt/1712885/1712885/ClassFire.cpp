@@ -1,0 +1,1 @@
+#include "ClassFire.h"
